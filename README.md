@@ -11,6 +11,7 @@
 - 自动发送评论
 - 自动关注，点赞，收藏
 - 发送私信
+- ![image](https://example.com/path/to/image.jpg)
 ## 基础设置
 - 需要用户cookie（账号信息）值进行本账号爬取或发布
 - 保存可支持数据库和execl，csv保存
